@@ -3,7 +3,7 @@ Test File
 <html>
   <head>
       <meta charset="utf-8">
-      <title>Test the Title</title>
+      Test the Head
   </head>
   <body>
 Test the body
